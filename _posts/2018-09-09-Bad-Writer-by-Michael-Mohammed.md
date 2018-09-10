@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bad Writer by Michael Mohammed Ahmad
-subtitle: my response to *Bad Writer* for Creative Approaches
+subtitle: my response to Bad Writer for Creative Approaches
 tags: [Creative Approaches to Emerging Technology, Olin College]
 ---
 
