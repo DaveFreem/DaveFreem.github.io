@@ -3,12 +3,9 @@ layout: post
 title: Bad Writer by Michael Mohammed Ahmad
 tags: [Creative Approaches to Emerging Technology, Olin College, Week 1]
 ---
-link to [*Bad Writer*](https://sydneyreviewofbooks.com/bad-writer/)
-
-## My Thoughts:  
+#### link to [*Bad Writer*](https://sydneyreviewofbooks.com/bad-writer/)  
 
 ### What is the role of originality and uniqueness in work whose creator is living in a mass-media world?  
-  
 > "What makes bad writing universal is that it lacks detail, originality, specificity and a sense of character and place, it depends on generalisations and clichés (both in terms of language and story), and it only reproduces common tropes and ideas which are propagated in mainstream literature, film, television, music and radio, making it so unremarkable that it could have been written anywhere by anyone at any time."
 
 I feel like Ahmad focused a lot of this piece on how bad writing is cliche and generic whereas good writing is original
