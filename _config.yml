@@ -37,15 +37,15 @@ avatar: "/img/pizza-square.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F1DE"
-navbar-text-col: "#5D86AF"
-navbar-children-col: "#F5F1DE"
-page-col: "#89ADC2"
-link-col: "#5D86AF"
-hover-col: "#0085A1"
-footer-col: "#F5F1DE"
-footer-text-col: "#89ADC2"
-footer-link-col: "#404040"
+navbar-col: "#111004"
+navbar-text-col: "#fcfcfc"
+navbar-children-col: "#111004"
+page-col: "#a36937"
+link-col: "#194495"
+hover-col: "#000080"
+footer-col: "#111004"
+footer-text-col: "#a36937"
+footer-link-col: "#194495"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
