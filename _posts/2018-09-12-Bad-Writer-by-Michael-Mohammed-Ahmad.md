@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bad Writer by Michael Mohammed Ahmad
-tags: [Creative Approaches to Emerging Technology, Olin College, Week 1]
+tags: [Creative Approaches to Emerging Technology, Olin College, Week 1, critique]
 ---
 #### link to [*Bad Writer*](https://sydneyreviewofbooks.com/bad-writer/)  
 
