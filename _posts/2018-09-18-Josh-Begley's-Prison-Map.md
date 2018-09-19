@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Josh Begley’s *Prison Map*
+title: Josh Begley’s Prison Map
 tags: [Creative Approaches to Emerging Technology, Olin College, Week 2, critique]
 ---
 
