@@ -15,8 +15,7 @@ of its subject.
 
 With this in mind, I think that “trusting” data should mean going along for the ride that the data’s collector is steering.
 Trusting a dataset can be about trusting its collector (acknowledging the humanness of data collection) rather than trusting
-its **truth** (believing that the data holds a [mythical](http://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.
-pdf), [objective](https://mitpress.mit.edu/books/objectivity) authority). I can learn *so* much by hearing out someone’s 
+its **truth** (believing that the data holds a [mythical](http://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf), [objective](https://mitpress.mit.edu/books/objectivity) authority). I can learn *so* much by hearing out someone’s 
 passions or worries that might be deeply informed by the data that they are presenting, and listening and empathizing can 
 let me find beauty or concern where the collector finds beauty or concern. 
 
