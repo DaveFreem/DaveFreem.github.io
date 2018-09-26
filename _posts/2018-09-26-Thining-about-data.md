@@ -23,10 +23,10 @@ I think that there surely exists “good” data that also represents the voice 
 
 
 
-*This post's thoughts were insprired by the following works:
- - **Five Things We Need to Know About Technological Change** by Neil Postman
- - **The Point of Collection** by Mimi Onuoha
- - **Representation and the Necessity of Interpretation** by Laura Kurgan
- - **Objectivity** by Lorraine Daston and Peter Galison*
+*This post's thoughts were insprired by the following works:*
+ - ***Five Things We Need to Know About Technological Change** by Neil Postman*
+ - ***The Point of Collection** by Mimi Onuoha*
+ - ***Representation and the Necessity of Interpretation** by Laura Kurgan*
+ - ***Objectivity** by Lorraine Daston and Peter Galison*
  
 
