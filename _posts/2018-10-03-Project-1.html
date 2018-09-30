@@ -1,0 +1,16 @@
+---
+layout: default
+images:
+  - image_path: /img/1M1M1244.jpg
+    title: me1
+  - image_path: /img/1M1M1256.jpg
+    title: me2
+  - image_path: /img/1M1M1431.jpg
+    title: me3
+---
+...
+<ul class="photo-gallery">
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul>
