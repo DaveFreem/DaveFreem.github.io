@@ -30,4 +30,4 @@ Satellite images are distanced. But what happens when we include street views in
 seeing them through a computerized street view. Through *Homes I Saw*, I am trying to question the ways that we associate physical 
 presence with understanding and familiarity. 
 
-*(heres a [link](https://docs.google.com/presentation/d/1J9TgBXzRLMSBFYhDjRdQaUh9-M_GziLuzc78eoQJLS8/edit?usp=sharing) to the slide presentation I gave in class. It includes images, which is a big plus)*
+*(here's a [link](https://docs.google.com/presentation/d/1J9TgBXzRLMSBFYhDjRdQaUh9-M_GziLuzc78eoQJLS8/edit?usp=sharing) to the slide presentation I gave in class. It includes images, which is a big plus)*
