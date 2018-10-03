@@ -5,7 +5,7 @@ tags: [Creative Approaches to Emerging Technology, Olin College, Project 1]
 ---
 ### Project 1 - Homes I Saw  
 [*Homes I Saw*](https://homesisaw.tumblr.com/) is a piece that I created in response to Josh Begley's [*Prison Map*](prisonmap.com).
-As noted in a [previous post](https://davefreem.github.io/2018-09-18-Josh-Begley's-Prison-Map/),I took issue with the ways that
+As noted in a [previous post](https://davefreem.github.io/2018-09-18-Josh-Begley's-Prison-Map/), I took issue with the ways that
 Begley presented satellite images as "actual" representations of prison landscapes, as well as how the images served many of the 
 same purposes that other forms of data would have. 
 
@@ -29,3 +29,5 @@ Satellite images are distanced. But what happens when we include street views in
  of place that I only know through a car's window. I argue that seeing these places through our car windows is just as distant as 
 seeing them through a computerized street view. Through *Homes I Saw*, I am trying to question the ways that we associate physical 
 presence with understanding and familiarity. 
+
+*(heres a [link](https://docs.google.com/presentation/d/1J9TgBXzRLMSBFYhDjRdQaUh9-M_GziLuzc78eoQJLS8/edit?usp=sharing) to the slide presentation I gave in class. It includes images, which is a big plus)*
