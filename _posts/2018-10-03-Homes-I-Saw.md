@@ -22,7 +22,7 @@ to physically distanced relationships), but how *actual* is that familiarity?
 *Homes I Saw* is a long, scrolling grid of photographs procured through various Google Cloud API's. Using the coordinates
 of spots I found on Google Maps, I got the aerial and street views (if available) of around fifty homes in Arkansas (my home state).
 
-![Satellite and Street views of the same house](img/bothviews.png){: center-image}
+![Satellite and Street views of the same house](https://github.com/DaveFreem/DaveFreem.github.io/tree/master/img/both_views.png)
 
 Satellite images are distanced. But what happens when we include street views in our virtual depictions of a place? Google's street
  view images are captured literally by a car driving by the place in question. When I'm driving through Arkansas, there are plenty
