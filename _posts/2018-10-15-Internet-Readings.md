@@ -22,6 +22,7 @@ representing my thought well.
 
 ![two pairs of wavy lines, the top one has the lines linking up often, while the bottom pair has lines that veer away and rarely 
 touch](https://github.com/DaveFreem/DaveFreem.github.io/blob/master/img/internet%20rules.jpg)
+*link to image [here](https://github.com/DaveFreem/DaveFreem.github.io/blob/master/img/internet%20rules.jpg)*
 
 > The top sketch shows the internet constantly interacting with the non-internet, leading to fluid, continual impacts on one another.
 The bottom sketch shows an internet that can evolve without checking in with or effecting the non-internet world, allowing it to 
