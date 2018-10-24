@@ -45,8 +45,7 @@ that this search term is left out of Google’s internet?”
 
 At this point in the process, there are a few introspective thoughts in my head:
 
-#### - I have a poorly-defined yet definitive line in my head between internet-focused art that works and internet-focused art 
-that is tired
+#### - I have a poorly-defined yet definitive line in my head between internet-focused art that works and internet-focused art that is tired
 
 This is bad, I need to work on unpacking that. At least defining what it is would help me know what to do about it, rather than
 just bubbling around judgmentally dismissing thoughtful work.
