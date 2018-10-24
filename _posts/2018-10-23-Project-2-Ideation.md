@@ -1,3 +1,10 @@
+---
+layout: post
+title: Project 2 Ideation
+tags: [Creative Approaches to Emerging Technology, Olin College, Week 7, project 2]
+---
+
+
 Last week, the class got split into pairs to begin working on our second art project, with this assignment focusing on *the internet*.
 For the next few days, my partner Izzy and I explored the subject separately, working off of the examples provided (see week 7 of 
 the [course syllabus](https://github.com/MimiOnuoha/Creative-Approaches)) as a springboard toward any more interesting/personal 
