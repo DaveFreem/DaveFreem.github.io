@@ -10,12 +10,7 @@ tags: [Creative Approaches to Emerging Technology, Olin College, Project 2]
 As we were exploring potential paths for our project, we gravitated toward two central themes. The first had to do with the 
 effects of the internet preserving our data: how small back-and-forth chats get fixed in our message history, how our children 
 could eventually dig through our middle-school era Facebook posts. The second idea revolved around the “limitlessness” of our 
-Google search results, and how we often fail to recognize the very real limits of Google’s records. At a certain point in our 
-elongated conversation, Izzy tied this to how she turns to her dad for information. When it comes to politics especially, he has
-the weird local knowledge that you can’t find on Google. He knows who did what, how so-and-so actually feels about the big local
-issues, information that you can’t find on their campaign sites and that hasn’t yet made it from the local papers to the top of
-Google’s search results. We felt like there were some unexplored realms to how we interact with Google as a friend, and how 
-interacting with a friend as our own Google can frame this conversation in a fresh light.
+Google search results, and how we often fail to recognize the [very real limits](http://mimionuoha.com/the-library-of-missing-datasets/) of Google’s records. At a certain point in our elongated conversation, Izzy tied this to how she turns to her dad for information. When it comes to politics especially, he hasthe weird local knowledge that you can’t find on Google. He knows who did what, how so-and-so actually feels about the big local issues, information that you can’t find on their campaign sites and that hasn’t yet made it from the local papers to the top of Google’s search results. We felt like there were some unexplored realms to how we interact with Google as a friend, and how interacting with a friend as our own Google can frame this conversation in a fresh light.
 
 ##### Googling has become instinctual
 
@@ -50,7 +45,7 @@ an algorithm.
 
 ##### VPN searches through a friend
 
-We sought to confuse google by searching the things the other person is interested in. Now, 
+We sought to [confuse google](https://adnauseam.io/) by searching the things the other person is interested in. Now, 
 google thinks we care about/are interested in things that we actually aren’t.
 
 #### Weekend plan:
