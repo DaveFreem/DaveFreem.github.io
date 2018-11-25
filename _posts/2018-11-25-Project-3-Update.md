@@ -10,7 +10,7 @@ I want this project to remind us that everything that we create is a reflection 
 
 I don't think that this separation can be bridged by ["tech art"](http://contemporary-home-computing.org/art-and-tech/not/), which can be limited to commentary on *medium* (rather than expressing a thought through paint, you express it through Paint.net). I want to encourage conversation around the sameness of everything created. Are there not the same dangers behind a piece of art as there are behind an AI system? They both are created out of biases and perspectives, and maybe its the distinction between the two (the authority/factuality of AI outputs vs the subjectivity/humanness of artistic expression) that enforce the power that harmful AI systems harness.
 
-![Spatial arrangement of Project 3](https://github.com/DaveFreem/DaveFreem.github.io/blob/master/img/final%20project%20sketch.jpg)
+[Spatial arrangement sketch](https://github.com/DaveFreem/DaveFreem.github.io/blob/master/img/final%20project%20sketch.jpg)
 
 There is an arrangement of three tables in a "u" shape. On one side rest tools for art-creation (making a song, especially intimate through the physical instruments (synthesizer, tape recorder, external mic)). On the other side are tools to train a machine-learning system (keyboard, webcam, mouse). On the table at the end are two screens, one to process and play back the audio that you recorded, another to impliment the AI training set. 
 
