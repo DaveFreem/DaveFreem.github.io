@@ -4,6 +4,8 @@ title: Black Boxes
 tags: [Creative Approaches to Emerging Technology, Olin College, Project 3, Final Project]
 ---
 
+### Black Boxes
+
 In front of you, lined up across a table, are six hardboard boxes, painted black. Printed on the boxes lids are short descriptive texts, unique to each box:
 
  > Based off of the tasters that have been shared, creates an image of colors and textures to bring warmth and familiarity into our spaces
